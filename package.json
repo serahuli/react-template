@@ -1,0 +1,9 @@
+{
+  "name": "react-template",
+  "version": "1.0.0",
+  "description": "react 项目的一个模板， 基于react, webpack, styled-components, story-book实现个人/日志/文章/文档管理/登录退出/Dashboard",
+  "main": "index.js",
+  "repository": "git@github.com:serahuli/react-template.git",
+  "author": "丽霞 胡",
+  "license": "MIT"
+}
